@@ -1,0 +1,14 @@
+- osztály kutyus néven
+	-> neve
+	-> fajta
+	-> eletkor
+	
+-> lista sintertelep néven -> ami kutyákat tartalmaz
+
+-> bekéri a program kutyák adatait rendre
+-> ha mind3 adat megvan, akkor hozzáad egy kutyust a sintértelephez
+-> ha len(nev) == 0, akkor nem folytatódik a bekérés
+
+-> vizslák száma (megszámlálás tétele)
+-> milyen fajtájú a legöregebb kutya
+-> bekérek egy fajtát -> az összes ilyen fajtájú kutya nevétr kiírja
